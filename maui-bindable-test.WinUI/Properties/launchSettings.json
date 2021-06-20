@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "maui_bindable_test.WinUI": {
+      "commandName": "AppContainer"
+    }
+  }
+}
